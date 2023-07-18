@@ -1,0 +1,117 @@
+{
+  "deals": [
+
+    {
+      "pageTitle": "",
+      "pdfdocs": null,
+      "valuations": null,
+      "sling:resourceType": "commerce/components/product",
+      "jcr:title": "Up to 20% off for new Premium Set Meal at Itacho!",
+      "jcr:uuid": "54e9f309-21c8-48a2-a06b-664932b8c17e",
+      "relatedlinks": null,
+      "currentRelType": "_rel_deals",
+      "startdate": 1654012800000,
+      "thumbnail_details": [
+        {
+          "currentpath": "/content/dam/capitaland-sites/singapore/shop/malls/bugis-junction/Premium Set Meal 982x818.png.json"
+        }
+      ],
+      "assets": null,
+      "contactdetails": null,
+      "_rel_tenant_unit_number": "/etc/propertydatabase/sg/en/tenants/t-itachosushi-bugisjunction",
+      "identifier": "484ef811-5081-495e-8bfc-3201752eee82",
+      "keyfactleaddesigner": null,
+      "thumbnail": "/content/dam/capitaland-sites/singapore/shop/malls/bugis-junction/Premium Set Meal 982x818.png",
+      "jcr:created": 1653967686891,
+      "propertyphases": null,
+      "_rel_tenants_details": [
+        {
+          "entityname": "t-itachosushi-bugisjunction",
+          "_rel_properties_details": [
+            {
+              "entityname": "bugisjunction",
+              "jcr:title": "Bugis Junction (Part of Bugis Town)",
+              "currentpath": "https://www.capitaland.com/apis/ppd/sg/en/properties/bugisjunction.json"
+            }
+          ],
+          "jcr:title": "Itacho Sushi ",
+          "currentpath": "https://www.capitaland.com/apis/ppd/sg/en/tenants/t-itachosushi-bugisjunction.json"
+        }
+      ],
+      "entityType": "deals",
+      "assetcomponents": null,
+      "publishenddatetime": 1656597600000,
+      "tags": [
+        "listing-search-tags:sg-mall-deals"
+      ],
+      "keyfacts": null,
+      "jcr:predecessors": [
+        "a9515111-518e-4e1c-a36d-fd2bda2b3b60"
+      ],
+      "_rel_tenants": "/etc/propertydatabase/sg/en/tenants/t-itachosushi-bugisjunction",
+      "entityPath": null,
+      "enddate": 1656518400000,
+      "directions": null,
+      "jcr:description": "Not sure where to celebrate your Father’s Day this year?  Itacho Sushi always specializes in offering high quality delights that are wallet-friendly. We are launching our new Premium Set Meals for 2 pax and 1 pax diners respectively:&nbsp;<div>&nbsp;•\t2 pax set meal choices: Ichigo Set, Biwa Set&nbsp;</div><div>&nbsp;•\t1 pax set meal choices: Momo Set, Nashi Set, Kaki Set&nbsp;</div><div><br></div><div>With different&nbsp;<span style=\"font-size: 0.8125rem;\">combinations of salad, chawanmushi, soup, new main dish and dessert, each Premium Set is unique with its own taste.&nbsp;</span></div><div><span style=\"font-size: 0.8125rem;\"><br></span></div><div>For more information: <a href=\"https://www.itachosushi.com.sg/promotions\" title=\"\" target=\"_blank\">https://www.itachosushi.com.sg/promotions</a></div>",
+      "dealtypes": [
+        "listing-search-tags:sg-mall-deals",
+        "listing-search-tags:june-2022"
+      ],
+      "cq:lastModified": 1654702179283,
+      "jcr:primaryType": "nt:unstructured",
+      "carparkinglotrates": null,
+      "marketingcategory": [
+        "capitalanddatabasemanagement:sg/deal-categories/food-and-beverage"
+      ],
+      "amenities": null,
+      "bikeparkinglotrates": null,
+      "listingTypePages": {},
+      "openinghours": null,
+      "entityname": "up_to_20_off_for_new_807119955",
+      "carousel": [
+        {
+          "carouselkey": "/content/dam/capitaland-sites/singapore/shop/malls/bugis-junction/Premium Set Meal 982x818.png",
+          "jcr:primaryType": "nt:unstructured"
+        }
+      ],
+      "diffDeals": null,
+      "jcr:versionHistory": "6eedeced-b1d2-4e2e-b0fe-d8d55b05fb1d",
+      "carousel360": null,
+      "tenures": null,
+      "termsandconditions": "Terms and Conditions: Photos are for references only. All items are subjected to 7% GST.",
+      "unitsizes": null,
+      "shortdescription": "Up to 20% off for new Premium Set Meal at Itacho!",
+      "cq:tags": [
+        "listing-search-tags:sg-mall-deals",
+        "listing-search-tags:june-2022",
+        "capitalanddatabasemanagement:sg/deal-categories/food-and-beverage"
+      ],
+      "tenantmix": null,
+      "livechatdetails": null,
+      "mallamenities": null,
+      "feedbackcategories": null,
+      "keyfactlevels": null,
+      "currentPath": "https://www.capitaland.com/apis/ppd/sg/en/deals/up_to_20_off_for_new_807119955.json",
+      "pagePath": null,
+      "firstPublished": 1653967741101,
+      "equitystakes": null,
+      "sortimportance": "2000",
+      "dynamicfields": null,
+      "promotiontype": "tenantpromotion",
+      "jcr:isCheckedOut": true,
+      "dataherobanners": null,
+      "roomtypes": null,
+      "jcr:mixinTypes": [
+        "cq:Taggable",
+        "mix:versionable"
+      ],
+      "constructionhistory": null,
+      "cq:commerceType": "product",
+      "levels": null,
+      "publishstartdatetime": 1654702187316,
+      "jcr:baseVersion": "a9515111-518e-4e1c-a36d-fd2bda2b3b60"
+    }
+
+
+  ]
+}
