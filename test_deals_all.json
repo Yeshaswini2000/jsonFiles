@@ -1,0 +1,95 @@
+{
+  "deals": [
+    {
+      "pageTitle": "",
+      "pdfdocs": null,
+      "valuations": null,
+      "sling:resourceType": "commerce/components/product",
+      "jcr:title": "National Sale-bration at The Travel Store Outlet",
+      "relatedlinks": null,
+      "currentRelType": "_rel_deals",
+      "startdate": 1502121600000,
+      "thumbnail_details": [
+        {
+          "entityname": "travelstore_nationalday2017.jpg",
+          "jcr:title": null,
+          "currentpath": "/content/dam/capitaland-media-library/retail/Singapore/Singapore/IMM Building/deals/travelstore_nationalday2017.jpg.json"
+        }
+      ],
+      "assets": null,
+      "contactdetails": null,
+      "identifier": "7548dae0-3e91-4a5a-a82a-59650e9ec218",
+      "keyfactleaddesigner": null,
+      "thumbnail": "/content/dam/capitaland-media-library/retail/Singapore/Singapore/IMM Building/deals/travelstore_nationalday2017.jpg",
+      "jcr:created": 1502181264356,
+      "propertyphases": null,
+      "_rel_tenants_details": [
+        {
+          "entityname": "t-thetravelstoreoutlet-immbuilding",
+          "_rel_properties_details": [
+            {
+              "entityname": "immbuilding",
+              "jcr:title": "IMM Building",
+              "currentpath": "https://www.capitaland.com/apis/ppd/sg/en/properties/immbuilding.json"
+            }
+          ],
+          "jcr:title": "The Travel Store Outlet",
+          "currentpath": "https://www.capitaland.com/apis/ppd/sg/en/tenants/t-thetravelstoreoutlet-immbuilding.json"
+        }
+      ],
+      "entityType": "deals",
+      "assetcomponents": null,
+      "keyfacts": null,
+      "_rel_tenants": "/etc/propertydatabase/sg/en/tenants/t-thetravelstoreoutlet-immbuilding",
+      "entityPath": null,
+      "enddate": 1502553600000,
+      "directions": null,
+      "jcr:description": "<div><span style=\"font-size: 0.8125rem;\">Enjoy special promotions at The Travel Store Outlet from now till 13 Aug 2017.</span><br></div><div>&nbsp; &nbsp; &nbsp; &nbsp;</div><div>Promotion is valid from 1 - 13 Aug only.</div><div>Check in-store for details.</div><div><br></div>",
+      "cq:lastModified": 1502185344290,
+      "jcr:primaryType": "nt:unstructured",
+      "carparkinglotrates": null,
+      "amenities": null,
+      "bikeparkinglotrates": null,
+      "listingTypePages": {},
+      "openinghours": null,
+      "entityname": "national_sale_bratio",
+      "carousel": [
+        {
+          "carouselkey": "/content/dam/capitaland-media-library/retail/Singapore/Singapore/IMM Building/deals/travelstore_nationalday2017.jpg",
+          "jcr:primaryType": "nt:unstructured"
+        }
+      ],
+      "diffDeals": null,
+      "carousel360": null,
+      "tenures": null,
+      "termsandconditions": "<div>Promotion is valid from 1 - 13 Aug only.</div><div>Check in-store for details.</div>",
+      "unitsizes": null,
+      "shortdescription": "Enjoy special promotions from now till 13 Aug 2017.",
+      "cq:tags": [
+        "listing-search-tags:sg-mall-deals"
+      ],
+      "tenantmix": null,
+      "livechatdetails": null,
+      "mallamenities": null,
+      "feedbackcategories": null,
+      "keyfactlevels": null,
+      "currentPath": "https://www.capitaland.com/apis/ppd/sg/en/deals/national_sale_bratio.json",
+      "pagePath": null,
+      "firstPublished": 1502181295277,
+      "equitystakes": null,
+      "sortimportance": "0",
+      "dynamicfields": null,
+      "promotiontype": "tenantpromotion",
+      "dataherobanners": null,
+      "roomtypes": null,
+      "jcr:mixinTypes": [
+        "cq:Taggable",
+        "cq:ReplicationStatus"
+      ],
+      "constructionhistory": null,
+      "cq:commerceType": "product",
+      "levels": null,
+      "publishstartdatetime": 1502208000000
+    }
+  ]
+}
