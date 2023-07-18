@@ -1,0 +1,104 @@
+{
+  "deals": [
+    {
+      "pageTitle": "",
+      "pdfdocs": null,
+      "valuations": null,
+      "sling:resourceType": "commerce/components/product",
+      "jcr:title": "Duke Bakery - July Promotion",
+      "relatedlinks": null,
+      "currentRelType": "_rel_deals",
+      "startdate": 1688918400000,
+      "thumbnail_details": [
+        {
+          "entityname": "SKGM DB July.jpeg",
+          "jcr:title": null,
+          "currentpath": "/content/dam/capitaland-sites/singapore/shop/malls/junction-8/deals/SKGM DB July.jpeg.json"
+        }
+      ],
+      "assets": null,
+      "contactdetails": null,
+      "_rel_tenant_unit_number": "/etc/propertydatabase/sg/en/tenants/t-dukebakery-sengkanggrand",
+      "identifier": "afb6fcb4-ce2c-4d03-86b0-0c03c02f8081",
+      "keyfactleaddesigner": null,
+      "thumbnail": "/content/dam/capitaland-sites/singapore/shop/malls/junction-8/deals/SKGM DB July.jpeg",
+      "jcr:created": 1688953004208,
+      "propertyphases": null,
+      "_rel_tenants_details": [
+        {
+          "entityname": "duke_bakery",
+          "_rel_properties_details": [
+            {
+              "entityname": "sengkang_grand",
+              "jcr:title": "Sengkang Grand Mall",
+              "currentpath": "https://www.capitaland.com/apis/ppd/sg/en/properties/sengkang_grand.json"
+            }
+          ],
+          "jcr:title": "Duke Bakery",
+          "currentpath": "https://www.capitaland.com/apis/ppd/sg/en/tenants/duke_bakery.json"
+        }
+      ],
+      "entityType": "deals",
+      "assetcomponents": null,
+      "publishenddatetime": 1690767600000,
+      "tags": [
+        "listing-search-tags:sg-mall-deals"
+      ],
+      "keyfacts": null,
+      "_rel_tenants": "/etc/propertydatabase/sg/en/tenants/duke_bakery",
+      "entityPath": null,
+      "enddate": 1690732800000,
+      "directions": null,
+      "jcr:description": "<div>-&nbsp; Top up $0.60 for 1pc of Japanese Scone with min spend of $9.90 in a single receipt.</div><div>-&nbsp; Free $2 Voucher with min spend of $15.00 in a single receipt.</div><div><br></div>",
+      "dealtypes": [
+        "listing-search-tags:sg-mall-deals"
+      ],
+      "jcr:primaryType": "nt:unstructured",
+      "carparkinglotrates": null,
+      "marketingcategory": [
+        "capitalanddatabasemanagement:sg/deal-categories/food-and-beverage"
+      ],
+      "amenities": null,
+      "bikeparkinglotrates": null,
+      "listingTypePages": {},
+      "openinghours": null,
+      "entityname": "duke_bakery_july_pro_557502457",
+      "carousel": [
+        {
+          "carouselkey": "/content/dam/capitaland-sites/singapore/shop/malls/junction-8/deals/SKGM DB July.jpeg",
+          "jcr:primaryType": "nt:unstructured"
+        }
+      ],
+      "diffDeals": null,
+      "carousel360": null,
+      "tenures": null,
+      "termsandconditions": "<div>T&amp;Cs:</div><div>a)<span style=\"white-space:pre\">\t</span>This promo cannot be used with any other ongoing promotion, Duke Bakery vouchers, Foodline, Favepay, ShopeePay or privilege.</div><div>b)<span style=\"white-space:pre\">\t</span>The $2 voucher requires a minimum spend of $10.</div><div>c)<span style=\"white-space:pre\">\t</span>Available at all outlets.</div><div>d)<span style=\"white-space:pre\">\t</span>While stocks last.</div><div>e)<span style=\"white-space:pre\">\t</span>Duke Bakery Pte Ltd reserves the right to amend the terms and conditions.</div><div><br></div>",
+      "unitsizes": null,
+      "shortdescription": "July Promotion",
+      "cq:tags": [
+        "listing-search-tags:sg-mall-deals",
+        "capitalanddatabasemanagement:sg/deal-categories/food-and-beverage"
+      ],
+      "tenantmix": null,
+      "livechatdetails": null,
+      "mallamenities": null,
+      "feedbackcategories": null,
+      "keyfactlevels": null,
+      "currentPath": "https://www.capitaland.com/apis/ppd/sg/en/deals/duke_bakery_july_pro_557502457.json",
+      "pagePath": null,
+      "firstPublished": 1688953221244,
+      "equitystakes": null,
+      "sortimportance": "29",
+      "dynamicfields": null,
+      "dataherobanners": null,
+      "roomtypes": null,
+      "jcr:mixinTypes": [
+        "cq:Taggable"
+      ],
+      "constructionhistory": null,
+      "cq:commerceType": "product",
+      "levels": null,
+      "publishstartdatetime": 1688953221244
+    }
+  ]
+}
