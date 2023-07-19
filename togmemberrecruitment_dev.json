@@ -66,8 +66,7 @@
   "_rel_tenants": [
         "/etc/propertydatabase/sg/en/tenants/t-eighteenchefs-bugisjunction",
         "/etc/propertydatabase/sg/en/tenants/t-eighteenchefs-thestarvista"
-      ]
-  
+      ],
    "_rel_estate": [
         {
           "entityname": "css",
@@ -84,5 +83,5 @@
         {
           "currentpath": "https://www.capitaland.com/apis/ppd/sg/en/tenants/t-eighteenchefs-thestarvista.json"
         }
-      ]
+    ]
 }
