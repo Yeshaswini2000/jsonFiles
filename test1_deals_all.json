@@ -1,0 +1,104 @@
+{
+  "deals": [
+    {
+      "pageTitle": "",
+      "pdfdocs": null,
+      "valuations": null,
+      "sling:resourceType": "commerce/components/product",
+      "jcr:title": "Duke Bakery - July Promotion",
+      "relatedlinks": null,
+      "currentRelType": "_rel_deals",
+      "startdate": 1688832000000,
+      "thumbnail_details": [
+        {
+          "entityname": "DukeBakery_Jul23_Web (7-31Jul).jpg",
+          "jcr:title": null,
+          "currentpath": "/content/dam/capitaland-sites/singapore/shop/malls/imm/deals/DukeBakery_Jul23_Web (7-31Jul).jpg.json"
+        }
+      ],
+      "assets": null,
+      "contactdetails": null,
+      "_rel_tenant_unit_number": "/etc/propertydatabase/sg/en/tenants/t-dukebakery-immbuilding",
+      "identifier": "27a2bd42-a763-4f3f-bd9a-579caa5af9f7",
+      "keyfactleaddesigner": null,
+      "thumbnail": "/content/dam/capitaland-sites/singapore/shop/malls/imm/deals/DukeBakery_Jul23_Web (7-31Jul).jpg",
+      "jcr:created": 1688889223794,
+      "propertyphases": null,
+      "_rel_tenants_details": [
+        {
+          "entityname": "t-dukebakery-immbuilding",
+          "_rel_properties_details": [
+            {
+              "entityname": "immbuilding",
+              "jcr:title": "IMM Building",
+              "currentpath": "https://www.capitaland.com/apis/ppd/sg/en/properties/immbuilding.json"
+            }
+          ],
+          "jcr:title": "Duke Bakery",
+          "currentpath": "https://www.capitaland.com/apis/ppd/sg/en/tenants/t-dukebakery-immbuilding.json"
+        }
+      ],
+      "entityType": "deals",
+      "assetcomponents": null,
+      "publishenddatetime": 1690812000000,
+      "tags": [
+        "listing-search-tags:sg-mall-deals",
+        "listing-search-tags:shopping-guide-2023/jul-2023"
+      ],
+      "keyfacts": null,
+      "_rel_tenants": "/etc/propertydatabase/sg/en/tenants/t-dukebakery-immbuilding",
+      "entityPath": null,
+      "enddate": 1690732800000,
+      "directions": null,
+      "jcr:description": "<div><ul><li>Top up $0.60 for 1pc of Japanese Scone with min spend of $9.90 in a single receipt.</li><li>Free $2 Voucher with min spend of $15.00 in a single receipt.</li></ul></div>",
+      "jcr:primaryType": "nt:unstructured",
+      "carparkinglotrates": null,
+      "marketingcategory": [
+        "capitalanddatabasemanagement:sg/deal-categories/food-and-beverage"
+      ],
+      "amenities": null,
+      "bikeparkinglotrates": null,
+      "listingTypePages": {},
+      "openinghours": null,
+      "entityname": "duke_bakery_july_pro",
+      "carousel": [
+        {
+          "carouselkey": "/content/dam/capitaland-sites/singapore/shop/malls/imm/deals/DukeBakery_Jul23_Web (7-31Jul).jpg",
+          "jcr:primaryType": "nt:unstructured"
+        }
+      ],
+      "diffDeals": null,
+      "carousel360": null,
+      "tenures": null,
+      "termsandconditions": "<div><ul><li>This promo cannot be used with any other ongoing promotion, Duke Bakery vouchers, Foodline, Favepay, ShopeePay or privilege.</li><li>The $2 voucher requires a minimum spend of $10.</li><li>While stocks last.</li><li>Duke Bakery Pte Ltd reserves the right to amend the terms and conditions.</li><li>Check in-store for more details.</li></ul></div>",
+      "unitsizes": null,
+      "shortdescription": "July Promotion",
+      "cq:tags": [
+        "listing-search-tags:sg-mall-deals",
+        "listing-search-tags:shopping-guide-2023/jul-2023",
+        "capitalanddatabasemanagement:sg/deal-categories/food-and-beverage"
+      ],
+      "tenantmix": null,
+      "livechatdetails": null,
+      "mallamenities": null,
+      "feedbackcategories": null,
+      "keyfactlevels": null,
+      "currentPath": "https://www.capitaland.com/apis/ppd/sg/en/deals/duke_bakery_july_pro.json",
+      "pagePath": null,
+      "firstPublished": 1688889604548,
+      "equitystakes": null,
+      "sortimportance": "40",
+      "dynamicfields": null,
+      "promotiontype": "tenantpromotion",
+      "dataherobanners": null,
+      "roomtypes": null,
+      "jcr:mixinTypes": [
+        "cq:Taggable"
+      ],
+      "constructionhistory": null,
+      "cq:commerceType": "product",
+      "levels": null,
+      "publishstartdatetime": 1688889604548
+    }
+  ]
+}
