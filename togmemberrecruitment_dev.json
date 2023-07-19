@@ -64,24 +64,24 @@
   "levels": null,
   "publishstartdatetime": 1501326753198,
   "_rel_tenants": [
-        "/etc/propertydatabase/sg/en/tenants/t-eighteenchefs-bugisjunction",
-        "/etc/propertydatabase/sg/en/tenants/t-eighteenchefs-thestarvista"
-      ],
-   "_rel_estate": [
+    "/etc/propertydatabase/sg/en/tenants/t-eighteenchefs-bugisjunction",
+    "/etc/propertydatabase/sg/en/tenants/t-eighteenchefs-thestarvista"
+  ],
+  "_rel_estate": [
+    {
+      "entityname": "css",
+      "_rel_house_details": [
         {
-          "entityname": "css",
-          "_rel_house_details": [
-            {
-              "entityname": "bugisjunction",
-              "jcr:title": "Bugis Junction (Part of Bugis Town)",
-              "currentpath": "https://www.capitaland.com/apis/ppd/sg/en/properties/bugisjunction.json"
-            }
-          ],
-          "jcr:title": " TEAM AEM ",
-          "currentpath": "https://www.capitaland.com/apis/ppd/sg/en/tenants/t-eighteenchefs-bugisjunction.json"
-        },
-        {
-          "currentpath": "https://www.capitaland.com/apis/ppd/sg/en/tenants/t-eighteenchefs-thestarvista.json"
+          "entityname": "bugisjunction",
+          "jcr:title": "Bugis Junction (Part of Bugis Town)",
+          "currentpath": "https://www.capitaland.com/apis/ppd/sg/en/properties/bugisjunction.json"
         }
-    ]
+      ],
+      "jcr:title": " TEAM AEM ",
+      "currentpath": "https://www.capitaland.com/apis/ppd/sg/en/tenants/t-eighteenchefs-bugisjunction.json"
+    },
+    {
+      "currentpath": "https://www.capitaland.com/apis/ppd/sg/en/tenants/t-eighteenchefs-thestarvista.json"
+    }
+  ]
 }
