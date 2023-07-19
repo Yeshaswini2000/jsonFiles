@@ -1,0 +1,25 @@
+{
+  "deals": [
+    {
+      "deal_id": 2,
+      "deal_name": "Back to School",
+      "start_date": "2023-08-15",
+      "end_date": "2023-07-31",
+      "discount_percentage": 15,
+      "items": [
+        {
+          "item_id": 101,
+          "item_name": "Sunglasses",
+          "original_price": 50,
+          "discounted_price": 40
+        },
+        {
+          "item_id": 202,
+          "item_name": "Notebook",
+          "original_price": 5,
+          "discounted_price": 20
+        }
+      ]
+    }
+  ]
+}

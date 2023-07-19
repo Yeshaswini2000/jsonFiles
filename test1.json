@@ -1,0 +1,25 @@
+{
+  "deals": [
+    {
+      "deal_id": 1,
+      "deal_name": "Summer Sale",
+      "start_date": "2023-07-01",
+      "end_date": "2023-07-31",
+      "discount_percentage": 20,
+      "items": [
+        {
+          "item_id": 101,
+          "item_name": "Sunglasses",
+          "original_price": 50,
+          "discounted_price": 40
+        },
+        {
+          "item_id": 102,
+          "item_name": "Beach Towel",
+          "original_price": 25,
+          "discounted_price": 20
+        }
+      ]
+    }
+  ]
+}
